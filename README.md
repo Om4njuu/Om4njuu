@@ -37,6 +37,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>       
   </p>
+  
+<h2>🚀 My Projects </h2>
+  <p align="left">
+    <ul>
+      <li>
+        <a href="https://github.com/Om4njuu/Memory-Game"> Memory Game </a>
+      </li>
+      <li>
+        <a href="https://github.com/Om4njuu/Snake-Game"> Snake Game </a>
+      </li>
+      <li>
+        <a href="https://github.com/Om4njuu/Tic-Tac-Toe"> Tic Tac Toe </a>
+      </li>
+    </ul>
+  </p>
 
 <h2>🤔 What am I Listening Right Now? </h2>
   <p align="center">
