@@ -14,7 +14,7 @@
 <h2> 📊 My Stats and History</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=om4njuu&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="om4njuu stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om4njuu&layout=compact&theme=radical" alt="om4njuu top language" height="196"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om4njuu&layout=compact&theme=radical" alt="om4njuu top language" height="196" width="400"/>
 </p>
 
 <h2>🔧 Tools I Have Used and Learned</h2>
