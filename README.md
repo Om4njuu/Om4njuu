@@ -3,12 +3,6 @@
   <a href="https://www.linkedin.com/in/kanlaya-berger/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
   </a>
-  <a href="https://discord.gg/npaB3veVSk">
-    <img href="https://discord.gg/npaB3veVSk" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="discord" width="45" height="45"/>
-  </a>
-  <a href="https://steamcommunity.com/id/om4njuu">
-    <img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" alt="steam" width="45" height="45"/>
-  </a>
 </p>
 
 <h2> 📊 My Stats and History</h2>
