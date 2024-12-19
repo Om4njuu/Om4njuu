@@ -45,6 +45,9 @@
       <li>
         <a href="https://github.com/Om4njuu/Tic-Tac-Toe"> Tic Tac Toe </a>
       </li>
+      <li>
+        <a href="https://github.com/Om4njuu/Slide-App"> Slide App </a>
+      </li>
     </ul>
   </p>
 
