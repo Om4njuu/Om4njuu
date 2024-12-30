@@ -1,13 +1,13 @@
 <h2>🌐 My Portfolio Website</h2>
 <p align="left">
-  <a href="https://om4njuu.github.io/Portfolio/" target="_blank">
+  <a href="https://om4njuu.github.io/Portfolio/">
     <img src="logo.png" alt="logo" width="45" height="45"/>
   </a>
 </p>
 
 <h2>🗨️ Let's Talk & Connect</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/kanlaya-berger/" target="_blank">
+  <a href="https://www.linkedin.com/in/kanlaya-berger/" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
   </a>
 </p>
@@ -44,19 +44,19 @@
   <p align="left">
     <ul>
       <li>
-        <a href="https://github.com/Om4njuu/Memory-Game" target="_blank"> Memory Game </a>
+        <a href="https://github.com/Om4njuu/Memory-Game" > Memory Game </a>
       </li>
       <li>
-        <a href="https://github.com/Om4njuu/Snake-Game" target="_blank"> Snake Game </a>
+        <a href="https://github.com/Om4njuu/Snake-Game" > Snake Game </a>
       </li>
       <li>
-        <a href="https://github.com/Om4njuu/Tic-Tac-Toe" target="_blank"> Tic Tac Toe </a>
+        <a href="https://github.com/Om4njuu/Tic-Tac-Toe" > Tic Tac Toe </a>
       </li>
       <li>
-        <a href="https://github.com/Om4njuu/Slide-App" target="_blank"> Slide App </a>
+        <a href="https://github.com/Om4njuu/Slide-App" > Slide App </a>
       </li>
       <li>
-        <a href="https://sharemygame.com/@Om4njuu/2d-rpg-adventure" target="_blank"> 2D Pixel RPG Adventure (In Progress) </a>
+        <a href="https://sharemygame.com/@Om4njuu/2d-rpg-adventure" > 2D Pixel RPG Adventure (In Progress) </a>
       </li>
     </ul>
   </p>
