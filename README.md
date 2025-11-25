@@ -1,7 +1,7 @@
 <h2>🌐 My Portfolio Website</h2>
 <p align="left">
   <a href="https://om4njuu.github.io/Portfolio/">
-    <img src="logo.png" alt="logo" width="45" height="45"/>
+    <img src="sig_V.png" alt="logo" width="45" height="45"/>
   </a>
 </p>
 
